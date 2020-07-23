@@ -1,7 +1,6 @@
->This project is based on the [stub project](https://github.com/londonappbrewery/dicee-flutter) from the Udemy course *The Complete 2020 Flutter Development Bootcamp with Dart* by Angela Yu.
-
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+>This project is based on the [stub project](https://github.com/londonappbrewery/dicee-flutter) from the Udemy course *The Complete 2020 Flutter Development Bootcamp with Dart* taught by Angela Yu.
 
 # Dicee 🎲
 
